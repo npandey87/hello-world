@@ -1,2 +1,2 @@
 # hello-world
-first
+Python is not that hard. 
